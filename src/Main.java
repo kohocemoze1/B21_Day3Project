@@ -6,5 +6,6 @@ public class Main {
 
         //nice message !!!
         //b21 is great
+        //b21 teacher talks fast
     }
 }
